@@ -102,7 +102,7 @@ Email delivery is disabled in development.
 Getting Started
 ---------------
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lebs and Peanaro.
 
 Documentation and Support
 -------------------------
